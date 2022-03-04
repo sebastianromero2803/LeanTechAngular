@@ -1,0 +1,12 @@
+#sideBar {
+    background: rgb(255,89,0);
+    background: linear-gradient(180deg, rgba(255,89,0,0.8463760504201681) 21%, rgba(255,0,0,1) 100%);
+}
+
+.logo {
+    margin-left: 20 px;
+}
+
+a {
+  cursor: pointer;
+}
