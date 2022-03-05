@@ -1,0 +1,9 @@
+#principal {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
